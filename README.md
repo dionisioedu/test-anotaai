@@ -44,4 +44,10 @@ Instruções
 ####
 npm install
 npm run dev
+ ===============================================
 
+
+Observações
+Tentei criar a melhor API possível mas devido a minha inexperiência não consegui, tentei implementar autenticação, hash, variáveis de ambiente.
+Além dos produtos tbm adicionei usuarios q pudessem remover adicionar ou atualizar produtos, desde q tivesse autenticado, desde já agradeço
+caso mesmo assim prossiga com o processo, não terá arrependimento, sou uma pessoa muito dedicada.
