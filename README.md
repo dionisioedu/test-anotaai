@@ -38,3 +38,10 @@ Your challenge is to develop an API, using Node.JS, for a product catalog manage
 - Code organization, module separation, readability and comments.
 - Commit history.
 - The use of MongoDB is a differentiator
+
+#### 
+Instruções
+####
+npm install
+npm run dev
+
